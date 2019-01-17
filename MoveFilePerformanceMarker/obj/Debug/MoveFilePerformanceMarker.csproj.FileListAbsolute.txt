@@ -1,0 +1,7 @@
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\bin\Debug\MoveFilePerformanceMarker.exe.config
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\bin\Debug\MoveFilePerformanceMarker.exe
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\bin\Debug\MoveFilePerformanceMarker.pdb
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\obj\Debug\MoveFilePerformanceMarker.csprojAssemblyReference.cache
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\obj\Debug\MoveFilePerformanceMarker.csproj.CoreCompileInputs.cache
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\obj\Debug\MoveFilePerformanceMarker.exe
+C:\Users\cory.johnson\source\repos\MoveFilePerformanceMarker\MoveFilePerformanceMarker\obj\Debug\MoveFilePerformanceMarker.pdb
